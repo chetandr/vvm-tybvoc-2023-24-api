@@ -15,34 +15,7 @@
       "order_history": []
     }
   }
-  
-  
-  {
-    "employee": {
-      "name": "Jane Smith",
-      "employee_id": "EMP123",
-      "email": "jane.smith@example.com",
-      "password": "securepassword456",
-      "phone": "+9876543210",
-      "role": "Delivery Driver",
-      "shift_schedule": "9 AM - 5 PM",
-      "location": "Main Warehouse",
-      "emergency_contact": {
-        "name": "John Doe",
-        "phone": "+123456789"
-      },
-      "address": {
-        "street": "456 Delivery Street",
-        "city": "Cityville",
-        "state": "CA",
-        "postal_code": "90210",
-        "country": "USA"
-      },
-      "employment_status": "Full-time"
-    }
-  }
-  
-  
+
   {
     "delivery_person": {
       "name": "Alex Johnson",
